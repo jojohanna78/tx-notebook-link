@@ -1,0 +1,23 @@
+name: tx-notebook-link
+channels:
+  - https://prefix.dev/emscripten-forge-4x
+  - https://prefix.dev/conda-forge
+dependencies:
+  - xeus-python
+  - numpy
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - pip
+  - bqplot
+  - ipywidgets
+  - jupyterquiz
+  - trimesh
+  - bokeh
+  - plotly
+  - nbformat
+  - anywidget
+  - jupytercad-lite>=3.4.1
+  - pip:
+      - ipympl
+
